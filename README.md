@@ -259,13 +259,6 @@ Environment variables can be set in the `compose.yml` or overridden via a `.env`
 
 MIT. The UCI Adult dataset is used for analytical and educational purposes.
 
----
-
-## Contact & Support
-
-- **GitHub Issues** – bug reports, feature requests
-- **Discussions** – usage questions, “how‑to” tips
-- **Email** – m.abbas@netixsol.com (replace as needed)
 
 ---
 
